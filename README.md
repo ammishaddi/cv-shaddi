@@ -1,12 +1,12 @@
-#Curriculum Vitae 
-Proyecto en html del bootcamp frontend DevF :)
+# Curriculum Vitae 
+Proyecto en HTML del bootcamp frontend DevF :)
 
-##Objetivos de aprendizaje
--Aprender y poner en práctica la estructura de HTML
--Entender a usar etiquetas 
--Aprender a insertar imagenes 
--Agregar secciones en la estructura 
+## Objetivos de aprendizaje
+- Aprender y poner en práctica la estructura de HTML
+- Entender a usar etiquetas 
+- Aprender a insertar imagenes 
+- Agregar secciones en la estructura 
 
-#Código
+# Código
 Este es el código de la calse 06 que utilice para la creación de mi página
-!(Vista Previa)(https://imgur.com/a/q5iUHYl)
+![Texto alternativo](https://imgur.com/a/q5iUHYl)
