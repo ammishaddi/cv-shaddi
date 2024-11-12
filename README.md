@@ -9,4 +9,4 @@ Proyecto en HTML del bootcamp frontend DevF :)
 
 # Código
 Este es el código de la calse 06 que utilice para la creación de mi página
-![Texto alternativo](https://imgur.com/a/q5iUHYl)
+![Texto alternativo](https://i.imgur.com/a0oWSkz.png)
